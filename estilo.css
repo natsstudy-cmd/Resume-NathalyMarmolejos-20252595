@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(222, 217, 252);
+    color: rgb(66, 36, 87);
+}
+
+h1{
+    color: rgb(249, 240, 255);
+}
+
+h2{
+    color: rgb(90, 69, 152);
+}
+
+h3{
+    color: rgb(58, 44, 100);
+}
+
+a{
+    color: rgb(125, 74, 170);
+  text-decoration: none;
+  font-size: larger;
+}
+
+a:hover{
+    color: rgb(34, 0, 58);
+    background-color: rgb(222, 217, 252);
+    border-radius: 3px;
+}
+
+.foto{
+
+   border: 10px solid; border-radius: 5%; color: rgb(249, 240, 255);
+    
+}
+
+#titulo{
+   background-color: rgb(49, 33, 87);
+   padding: 20px;
+   text-align: center;
+   margin-top: 0%;
+}
+
+.cabeza{
+    background-color: rgb(241, 232, 255);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.cuerpo{
+    background-color: rgb(241, 232, 255);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#popipo{
+    color: rgb(49, 33, 87);
+}
+
+section{
+    border-bottom: 1px solid; color: rgb(90, 69, 152);
+}
+
+footer{
+    background-color: rgb(102, 74, 166);
+   padding: 10px;
+   border-radius: 4px;
+   text-align: center;
+   color: rgb(249, 240, 255);
+}
+ 
